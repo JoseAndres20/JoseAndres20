@@ -11,12 +11,12 @@
 
 <h3 align="left">💻 Languages in My Public Repositories:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=243545656765jose&show_icons=true&theme=radical&locale=en&layout=compact" alt="243545656765jose" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseAndres20&show_icons=true&theme=radical&locale=en&layout=compact" alt="243545656765jose" />
 </p>
 
 <h3 align="left">📊 Commits and Activity:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=243545656765jose&show_icons=true&theme=radical&locale=en&hide=prs&count_private=true" alt="243545656765jose" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JoseAndres20&show_icons=true&theme=radical&locale=en&hide=prs&count_private=true" alt="243545656765jose" />
 </p>
 
 <hr width="100%" >
@@ -34,5 +34,5 @@
 <hr width="100%" >
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=243545656765jose&label=Profile%20views&color=0e75b6&style=flat" alt="243545656765jose" />
+    <img src="https://komarev.com/ghpvc/?username=JoseAndres20&label=Profile%20views&color=0e75b6&style=flat" alt="243545656765jose" />
 </p>
