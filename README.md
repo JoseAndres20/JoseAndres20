@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About
+Small lab to play with README styles and GitHub Achievements.
+
+## Badges (green vibe)
+![Focus](https://img.shields.io/badge/Focus-README-16a34a?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)
