@@ -24,8 +24,8 @@ Me apasiona crear aplicaciones limpias, escalables y con buenas prácticas.
 
 ## 📫 Contacto
 - ✉️ **Email**: joseandresacunarodriguez087@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/joseandres](in/jose-andres-acuña-rodriguez)  
-- 🌐 **Portafolio**: [tuportafolio.com](https://JoseAndres20.github.io)  
+- 💼 **LinkedIn**: [linkedin.com/in/joseandres](https://linkedin.com/in/jose-andres-acuña-rodriguez)  
+- 🌐 **Portafolio**: [Portafolio](https://JoseAndres20.github.io)  
 
 ---
 
