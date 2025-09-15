@@ -1,23 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy José Andrés
 
-<!--
-**JoseAndres20/JoseAndres20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img alt="focus" src="https://img.shields.io/badge/Fullstack%20Developer-16a34a?style=for-the-badge&logo=github&logoColor=white">
+<img alt="status" src="https://img.shields.io/badge/Costa%20Rica-22c55e?style=for-the-badge">
+<img alt="learning" src="https://img.shields.io/badge/Learning-Next.js%20%7C%20Supabase-34d399?style=for-the-badge">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-## About
-Small lab to play with README styles and GitHub Achievements.
+---
 
-## Badges (green vibe)
-![Focus](https://img.shields.io/badge/Focus-README-16a34a?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)
+## 🧑‍💻 Sobre mí
+Soy **José Andrés**, estudiante avanzado de Ingeniería en Tecnologías de Información con enfoque en desarrollo web y bases de datos.  
+Me apasiona crear aplicaciones limpias, escalables y con buenas prácticas.
+  
+- 🚀 Intereses: **proyectos web, ciberseguridad y sistemas distribuidos**  
+
+---
+
+</div>
+
+---
+
+## 📫 Contacto
+- ✉️ **Email**: joseandresacunarodriguez087@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/joseandres](in/jose-andres-acuña-rodriguez)  
+- 🌐 **Portafolio**: [tuportafolio.com](https://JoseAndres20.github.io)  
+
+---
+
+<div align="center">
+
