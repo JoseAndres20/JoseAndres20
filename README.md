@@ -94,8 +94,17 @@
 </td>
 </tr>
 </table>
+## 📊 GitHub Stats & Contributions
 
----
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoseAndres20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndres20&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=java,php,html,css"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseAndres20&theme=tokyonight&hide_border=true"/>
+</div>
+
 
 <div align="center">
 
