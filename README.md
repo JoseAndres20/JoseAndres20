@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👋 Soy José Andrés (HexaFair)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hola,+Soy+Jos%C3%A9+Andr%C3%A9s;%F0%9F%A6%8A+Alias:+HexaFair;%F0%9F%92%BB+Full-Stack+Engineer;%F0%9F%9B%A1%EF%B8%8F+DevSecOps+Specialist" alt="Typing SVG" />
 
 **💻 Full-Stack Software Engineer & DevSecOps** · **📍 Costa Rica**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseacuna-cyberdev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://JoseAndres20.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joseandresacunarodriguez087@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseacuna-cyberdev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=00FFFF)](https://JoseAndres20.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseandresacunarodriguez087@gmail.com)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 </div>
 
@@ -27,7 +29,7 @@
 ### **Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FFFF)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -46,7 +48,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Cloud & DevOps Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -94,22 +96,27 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoseAndres20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndres20&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=java,php,html,css"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoseAndres20&show_icons=true&hide_border=true&count_private=true&hide_rank=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAndres20&layout=compact&hide_border=true&langs_count=5&hide=java,php,html,css&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseAndres20&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseAndres20&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div>
 
-
 <div align="center">
+<br/>
 
 **¡Contacta conmigo para colaborar en proyectos e infraestructura! 🚀**
 
-![Visitas](https://komarev.com/ghpvc/?username=JoseAndres20&color=2E9EFF&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=JoseAndres20&color=00FFFF&style=for-the-badge)
 
 </div>
